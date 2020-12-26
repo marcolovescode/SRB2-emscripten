@@ -1,0 +1,22 @@
+{
+  "name": "srb2-emscripten",
+  "version": "0.5.0",
+  "description": "Play SRB2 in your web browser! Works for PC, Chromebook, iOS, and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazmazz/SRB2-emscripten.git"
+  },
+  "author": "mazmazz",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mazmazz/SRB2-emscripten/issues"
+  },
+  "homepage": "https://github.com/mazmazz/SRB2-emscripten#readme",
+  "devDependencies": {
+    "emscripten-build": "git+https://github.com/devappd/emscripten-build"
+  }
+}

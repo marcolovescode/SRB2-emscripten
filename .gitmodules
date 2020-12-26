@@ -1,0 +1,4 @@
+[submodule "SRB2"]
+	path = SRB2
+	url = https://github.com/mazmazz/SRB2.git
+	branch = emscripten-ver1

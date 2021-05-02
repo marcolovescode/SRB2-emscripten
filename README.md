@@ -39,10 +39,6 @@ Co-development credits go to:
 * [heyjoeway](https://github.com/heyjoeway) for producing a successful proof-of-concept to compile the code to WebAssembly
 * [Jimita](https://github.com/Jimita) for producing the [Android port](https://github.com/Jimita/SRB2/tree/android-port-next) which this Web version is based on.
 
-## Acknowledgements
-
-[![CrossBrowserTesting](https://github.com/mazmazz/SRB2-emscripten/raw/main/.portfolio/CBT_OS-logo_2Color-H.png)](https://crossbrowsertesting.com/)
-
 ## License
 
 Sonic Robo Blast 2 is licensed under the GNU General Public License, Version 2.
